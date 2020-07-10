@@ -1,0 +1,22 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Apenas uma copia do projeto do Michel Telo e seus robôs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordan-Lima/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordan-Lima/video-maker/issues"
+  },
+  "homepage": "https://github.com/Jordan-Lima/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
